@@ -1,0 +1,144 @@
+{"level":"info","message":"🚀 Server is running on port 5000","timestamp":"2025-10-18 16:27:30"}
+{"level":"info","message":"🌍 Environment: development","timestamp":"2025-10-18 16:27:30"}
+{"level":"info","message":"🔗 Frontend URL: undefined","timestamp":"2025-10-18 16:27:30"}
+{"level":"error","message":"GET /api/blogs?limit=6&sort=published_at&order=DESC 500 140ms - ::1","timestamp":"2025-10-18 16:27:31"}
+{"level":"error","message":"GET /api/blogs/categories/all 500 97ms - ::1","timestamp":"2025-10-18 16:27:31"}
+{"level":"error","message":"GET /api/blogs?limit=6&sort=published_at&order=DESC 500 25ms - ::1","timestamp":"2025-10-18 16:31:41"}
+{"level":"error","message":"GET /api/blogs/categories/all 500 11ms - ::1","timestamp":"2025-10-18 16:31:41"}
+{"level":"error","message":"GET /api/blogs?limit=6&sort=published_at&order=DESC 500 30ms - ::1","timestamp":"2025-10-18 16:38:05"}
+{"level":"error","message":"GET /api/blogs/categories/all 500 62ms - ::1","timestamp":"2025-10-18 16:38:05"}
+{"level":"error","message":"GET /api/blogs?limit=6&sort=published_at&order=DESC 500 52ms - ::1","timestamp":"2025-10-18 16:38:23"}
+{"level":"error","message":"GET /api/blogs/categories/all 500 71ms - ::1","timestamp":"2025-10-18 16:38:23"}
+{"level":"error","message":"GET /api/blogs?limit=6&sort=published_at&order=DESC 500 11ms - ::1","timestamp":"2025-10-18 16:39:25"}
+{"level":"error","message":"GET /api/blogs/categories/all 500 54ms - ::1","timestamp":"2025-10-18 16:39:25"}
+{"level":"error","message":"GET /api/blogs/categories/all 500 14ms - ::1","timestamp":"2025-10-18 16:41:17"}
+{"level":"error","message":"GET /api/blogs?limit=6&sort=published_at&order=DESC 500 27ms - ::1","timestamp":"2025-10-18 16:41:17"}
+{"level":"error","message":"GET /api/blogs/openai-api-best-practices 500 18ms - ::1","timestamp":"2025-10-18 16:41:29"}
+{"level":"error","message":"GET /api/blogs/related/openai-api-best-practices?limit=3 500 22ms - ::1","timestamp":"2025-10-18 16:41:29"}
+{"level":"error","message":"GET /api/blogs/openai-api-best-practices 500 13ms - ::1","timestamp":"2025-10-18 16:41:29"}
+{"level":"error","message":"GET /api/blogs/related/openai-api-best-practices?limit=3 500 14ms - ::1","timestamp":"2025-10-18 16:41:29"}
+{"level":"error","message":"GET /api/blogs?page=1&limit=12&sort=published_at&order=DESC 500 12ms - ::1","timestamp":"2025-10-18 16:41:33"}
+{"level":"error","message":"GET /api/blogs/categories/all 500 13ms - ::1","timestamp":"2025-10-18 16:41:33"}
+{"level":"error","message":"GET /api/blogs?page=1&limit=12&sort=published_at&order=DESC 500 11ms - ::1","timestamp":"2025-10-18 16:41:33"}
+{"level":"error","message":"GET /api/blogs/categories/all 500 16ms - ::1","timestamp":"2025-10-18 16:41:33"}
+{"level":"error","message":"GET /api/blogs?page=1&limit=12&sort=published_at&order=DESC 500 32ms - ::1","timestamp":"2025-10-18 16:41:41"}
+{"level":"error","message":"GET /api/blogs/categories/all 500 70ms - ::1","timestamp":"2025-10-18 16:41:41"}
+{"level":"error","message":"GET /api/blogs/openai-api-best-practices 500 17ms - ::1","timestamp":"2025-10-18 16:41:46"}
+{"level":"error","message":"GET /api/blogs/related/openai-api-best-practices?limit=3 500 19ms - ::1","timestamp":"2025-10-18 16:41:46"}
+{"level":"error","message":"GET /api/blogs/openai-api-best-practices 500 15ms - ::1","timestamp":"2025-10-18 16:41:46"}
+{"level":"error","message":"GET /api/blogs/related/openai-api-best-practices?limit=3 500 17ms - ::1","timestamp":"2025-10-18 16:41:46"}
+{"level":"error","message":"GET /api/blogs?limit=6&sort=published_at&order=DESC 500 11ms - ::1","timestamp":"2025-10-18 16:41:48"}
+{"level":"error","message":"GET /api/blogs/categories/all 500 14ms - ::1","timestamp":"2025-10-18 16:41:48"}
+{"level":"error","message":"GET /api/blogs?limit=6&sort=published_at&order=DESC 500 10ms - ::1","timestamp":"2025-10-18 16:41:48"}
+{"level":"error","message":"GET /api/blogs/categories/all 500 11ms - ::1","timestamp":"2025-10-18 16:41:48"}
+{"level":"error","message":"GET /api/blogs?limit=6&sort=published_at&order=DESC 500 15ms - ::1","timestamp":"2025-10-18 16:41:51"}
+{"level":"error","message":"GET /api/blogs/categories/all 500 23ms - ::1","timestamp":"2025-10-18 16:41:51"}
+{"level":"info","message":"🚀 Server is running on port 5000","timestamp":"2025-10-18 16:42:17"}
+{"level":"info","message":"🌍 Environment: development","timestamp":"2025-10-18 16:42:17"}
+{"level":"info","message":"🔗 Frontend URL: undefined","timestamp":"2025-10-18 16:42:17"}
+{"level":"error","message":"GET /api/blogs/openai-api-best-practices 500 83ms - ::1","timestamp":"2025-10-18 16:42:23"}
+{"level":"error","message":"GET /api/blogs/related/openai-api-best-practices?limit=3 500 59ms - ::1","timestamp":"2025-10-18 16:42:23"}
+{"level":"error","message":"GET /api/blogs/openai-api-best-practices 500 24ms - ::1","timestamp":"2025-10-18 16:42:23"}
+{"level":"error","message":"GET /api/blogs/related/openai-api-best-practices?limit=3 500 23ms - ::1","timestamp":"2025-10-18 16:42:23"}
+{"level":"error","message":"GET /api/blogs?limit=6&sort=published_at&order=DESC 500 22ms - ::1","timestamp":"2025-10-18 16:42:23"}
+{"level":"error","message":"GET /api/blogs/categories/all 500 20ms - ::1","timestamp":"2025-10-18 16:42:23"}
+{"level":"error","message":"GET /api/blogs?limit=6&sort=published_at&order=DESC&category=tutorials 500 42ms - ::1","timestamp":"2025-10-18 16:42:35"}
+{"level":"error","message":"GET /api/blogs/categories/all 500 70ms - ::1","timestamp":"2025-10-18 16:42:35"}
+{"level":"error","message":"GET /api/blogs?limit=6&sort=published_at&order=DESC 500 59ms - ::1","timestamp":"2025-10-18 16:42:36"}
+{"level":"error","message":"GET /api/blogs/categories/all 500 42ms - ::1","timestamp":"2025-10-18 16:42:36"}
+{"level":"error","message":"GET /api/blogs?limit=6&sort=published_at&order=DESC&category=ai-news 500 22ms - ::1","timestamp":"2025-10-18 16:42:42"}
+{"level":"error","message":"GET /api/blogs/categories/all 500 23ms - ::1","timestamp":"2025-10-18 16:42:42"}
+{"level":"error","message":"GET /api/blogs?limit=6&sort=published_at&order=DESC&category=development 500 39ms - ::1","timestamp":"2025-10-18 16:42:44"}
+{"level":"error","message":"GET /api/blogs/categories/all 500 59ms - ::1","timestamp":"2025-10-18 16:42:44"}
+{"level":"error","message":"GET /api/blogs?limit=6&sort=published_at&order=DESC 500 36ms - ::1","timestamp":"2025-10-18 16:43:48"}
+{"level":"error","message":"GET /api/blogs/categories/all 500 79ms - ::1","timestamp":"2025-10-18 16:43:48"}
+{"level":"error","message":"GET /api/blogs?limit=6&sort=published_at&order=DESC 500 29ms - ::1","timestamp":"2025-10-18 16:43:52"}
+{"level":"error","message":"GET /api/blogs/categories/all 500 43ms - ::1","timestamp":"2025-10-18 16:43:52"}
+{"level":"error","message":"GET /api/blogs?limit=6&sort=published_at&order=DESC 500 6ms - ::1","timestamp":"2025-10-18 16:46:29"}
+{"level":"error","message":"GET /api/blogs/categories/all 500 7ms - ::1","timestamp":"2025-10-18 16:46:29"}
+{"level":"error","message":"GET /api/blogs/categories/all 500 1687ms - ::1","timestamp":"2025-10-18 16:50:11"}
+{"level":"error","message":"GET /api/blogs?limit=6&sort=published_at&order=DESC 500 2011ms - ::1","timestamp":"2025-10-18 16:50:11"}
+{"level":"error","message":"GET /api/blogs?limit=6&sort=published_at&order=DESC&category=tutorials 500 40ms - ::1","timestamp":"2025-10-18 16:50:29"}
+{"level":"error","message":"GET /api/blogs/categories/all 500 55ms - ::1","timestamp":"2025-10-18 16:50:29"}
+{"level":"error","message":"GET /api/blogs?limit=6&sort=published_at&order=DESC 500 44ms - ::1","timestamp":"2025-10-18 16:50:30"}
+{"level":"error","message":"GET /api/blogs/categories/all 500 53ms - ::1","timestamp":"2025-10-18 16:50:30"}
+{"level":"error","message":"Get products error: ","timestamp":"2025-10-18 16:52:06"}
+{"level":"error","message":"GET /api/products?page=1&limit=12&search=&type=&category=&sort=created_at&order=DESC 500 8ms - ::1","timestamp":"2025-10-18 16:52:06"}
+{"level":"error","message":"Get products error: ","timestamp":"2025-10-18 16:52:06"}
+{"level":"error","message":"GET /api/products?page=1&limit=12&search=&type=&category=&sort=created_at&order=DESC 500 7ms - ::1","timestamp":"2025-10-18 16:52:06"}
+{"level":"error","message":"Get products error: ","timestamp":"2025-10-18 16:52:19"}
+{"level":"error","message":"GET /api/products?page=1&limit=12&search=&type=&category=&sort=created_at&order=DESC 500 4ms - ::1","timestamp":"2025-10-18 16:52:19"}
+{"level":"error","message":"Get products error: ","timestamp":"2025-10-18 16:52:20"}
+{"level":"error","message":"GET /api/products?page=1&limit=12&search=&type=&category=&sort=created_at&order=DESC 500 4ms - ::1","timestamp":"2025-10-18 16:52:20"}
+{"level":"error","message":"Get products error: ","timestamp":"2025-10-18 16:53:49"}
+{"level":"error","message":"GET /api/products?page=1&limit=12&search=&type=&category=&sort=created_at&order=DESC 500 13ms - ::1","timestamp":"2025-10-18 16:53:49"}
+{"level":"error","message":"GET /api/blogs/categories/all 500 23ms - ::1","timestamp":"2025-10-18 16:53:54"}
+{"level":"error","message":"GET /api/blogs?limit=6&sort=published_at&order=DESC 500 32ms - ::1","timestamp":"2025-10-18 16:53:54"}
+{"level":"error","message":"Get products error: ","timestamp":"2025-10-18 16:56:10"}
+{"level":"error","message":"GET /api/products?page=1&limit=12&search=&type=&category=&sort=created_at&order=DESC 500 22ms - ::1","timestamp":"2025-10-18 16:56:10"}
+{"level":"error","message":"Get products error: ","timestamp":"2025-10-18 16:56:10"}
+{"level":"error","message":"GET /api/products?page=1&limit=12&search=&type=&category=&sort=created_at&order=DESC 500 9ms - ::1","timestamp":"2025-10-18 16:56:10"}
+{"level":"error","message":"Get products error: ","timestamp":"2025-10-18 16:56:21"}
+{"level":"error","message":"GET /api/products?page=1&limit=12&search=&type=&category=&sort=created_at&order=DESC 500 4ms - ::1","timestamp":"2025-10-18 16:56:21"}
+{"level":"error","message":"Get products error: ","timestamp":"2025-10-18 17:01:56"}
+{"level":"error","message":"GET /api/products?page=1&limit=12&search=&type=&category=&sort=created_at&order=DESC 500 5ms - ::1","timestamp":"2025-10-18 17:01:56"}
+{"level":"error","message":"Get products error: ","timestamp":"2025-10-18 17:03:17"}
+{"level":"error","message":"GET /api/products?page=1&limit=12&search=&type=&category=&sort=created_at&order=DESC 500 9ms - ::1","timestamp":"2025-10-18 17:03:17"}
+{"level":"error","message":"Get products error: ","timestamp":"2025-10-18 17:11:59"}
+{"level":"error","message":"GET /api/products?page=1&limit=12&search=&type=&category=&sort=created_at&order=DESC 500 6ms - ::1","timestamp":"2025-10-18 17:11:59"}
+{"level":"error","message":"Get products error: ","timestamp":"2025-10-18 17:24:34"}
+{"level":"error","message":"GET /api/products?page=1&limit=12&search=&type=&category=&sort=created_at&order=DESC 500 29ms - ::1","timestamp":"2025-10-18 17:24:34"}
+{"level":"error","message":"GET /api/blogs/categories/all 500 116ms - ::1","timestamp":"2025-10-18 17:24:40"}
+{"level":"error","message":"GET /api/blogs?limit=6&sort=published_at&order=DESC 500 116ms - ::1","timestamp":"2025-10-18 17:24:40"}
+{"level":"error","message":"GET /api/blogs/categories/all 500 30ms - ::1","timestamp":"2025-10-18 17:26:17"}
+{"level":"error","message":"GET /api/blogs?limit=6&sort=published_at&order=DESC 500 87ms - ::1","timestamp":"2025-10-18 17:26:17"}
+{"level":"error","message":"GET /api/blogs/categories/all 500 36ms - ::1","timestamp":"2025-10-18 17:26:18"}
+{"level":"error","message":"GET /api/blogs?limit=6&sort=published_at&order=DESC 500 62ms - ::1","timestamp":"2025-10-18 17:26:18"}
+{"level":"error","message":"Get products error: ","timestamp":"2025-10-18 17:26:50"}
+{"level":"error","message":"GET /api/products?page=1&limit=12&search=&type=account&category=&sort=created_at&order=DESC 500 8ms - ::1","timestamp":"2025-10-18 17:26:50"}
+{"level":"error","message":"Get products error: ","timestamp":"2025-10-18 17:26:50"}
+{"level":"error","message":"GET /api/products?page=1&limit=12&search=&type=account&category=&sort=created_at&order=DESC 500 7ms - ::1","timestamp":"2025-10-18 17:26:50"}
+{"level":"error","message":"GET /api/blogs?limit=6&sort=published_at&order=DESC 500 107ms - ::1","timestamp":"2025-10-18 17:41:39"}
+{"level":"error","message":"GET /api/blogs/categories/all 500 66ms - ::1","timestamp":"2025-10-18 17:41:39"}
+{"level":"error","message":"Get products error: ","timestamp":"2025-10-18 17:41:48"}
+{"level":"error","message":"GET /api/products?page=1&limit=12&search=&type=&category=&sort=created_at&order=DESC 500 7ms - ::1","timestamp":"2025-10-18 17:41:48"}
+{"level":"error","message":"Get products error: ","timestamp":"2025-10-18 17:41:48"}
+{"level":"error","message":"GET /api/products?page=1&limit=12&search=&type=&category=&sort=created_at&order=DESC 500 10ms - ::1","timestamp":"2025-10-18 17:41:48"}
+{"level":"error","message":"GET /api/blogs/categories/all 500 20ms - ::1","timestamp":"2025-10-18 17:41:53"}
+{"level":"error","message":"GET /api/blogs?limit=6&sort=published_at&order=DESC 500 23ms - ::1","timestamp":"2025-10-18 17:41:53"}
+{"level":"warn","message":"GET /api/cart 401 13ms - ::1","timestamp":"2025-10-18 17:41:57"}
+{"level":"warn","message":"GET /api/cart 401 14ms - ::1","timestamp":"2025-10-18 17:41:57"}
+{"level":"error","message":"GET /api/blogs?limit=6&sort=published_at&order=DESC 500 13ms - ::1","timestamp":"2025-10-18 17:42:06"}
+{"level":"error","message":"GET /api/blogs/categories/all 500 22ms - ::1","timestamp":"2025-10-18 17:42:06"}
+{"level":"error","message":"GET /api/blogs?limit=6&sort=published_at&order=DESC 500 12ms - ::1","timestamp":"2025-10-18 17:42:06"}
+{"level":"error","message":"GET /api/blogs/categories/all 500 28ms - ::1","timestamp":"2025-10-18 17:42:06"}
+{"level":"error","message":"Get products error: ","timestamp":"2025-10-18 17:42:55"}
+{"level":"error","message":"GET /api/products?page=1&limit=12&search=&type=&category=&sort=created_at&order=DESC 500 21ms - ::1","timestamp":"2025-10-18 17:42:55"}
+{"level":"error","message":"Get products error: ","timestamp":"2025-10-18 17:42:55"}
+{"level":"error","message":"GET /api/products?page=1&limit=12&search=&type=&category=&sort=created_at&order=DESC 500 8ms - ::1","timestamp":"2025-10-18 17:42:55"}
+{"level":"error","message":"GET /api/blogs/categories/all 500 9ms - ::1","timestamp":"2025-10-18 17:42:58"}
+{"level":"error","message":"GET /api/blogs?limit=6&sort=published_at&order=DESC 500 31ms - ::1","timestamp":"2025-10-18 17:42:58"}
+{"level":"error","message":"Get products error: SASL: SCRAM-SERVER-FIRST-MESSAGE: client password must be a string","timestamp":"2025-10-18 17:46:33"}
+{"level":"error","message":"GET /api/products?page=1&limit=12&search=&type=&category=&sort=created_at&order=DESC 500 252ms - ::1","timestamp":"2025-10-18 17:46:33"}
+{"level":"error","message":"Get products error: SASL: SCRAM-SERVER-FIRST-MESSAGE: client password must be a string","timestamp":"2025-10-18 17:46:33"}
+{"level":"error","message":"GET /api/products?page=1&limit=12&search=&type=&category=&sort=created_at&order=DESC 500 17ms - ::1","timestamp":"2025-10-18 17:46:33"}
+{"level":"error","message":"GET /api/blogs?limit=6&sort=published_at&order=DESC 500 22ms - ::1","timestamp":"2025-10-18 17:46:38"}
+{"level":"error","message":"GET /api/blogs/categories/all 500 18ms - ::1","timestamp":"2025-10-18 17:46:38"}
+{"level":"error","message":"GET /api/blogs?limit=6&sort=published_at&order=DESC 500 14ms - ::1","timestamp":"2025-10-18 17:46:38"}
+{"level":"error","message":"GET /api/blogs/categories/all 500 20ms - ::1","timestamp":"2025-10-18 17:46:38"}
+{"level":"error","message":"Get products error: SASL: SCRAM-SERVER-FIRST-MESSAGE: client password must be a string","timestamp":"2025-10-18 17:49:10"}
+{"level":"error","message":"GET /api/products?page=1&limit=12&search=&type=&category=&sort=created_at&order=DESC 500 17ms - ::1","timestamp":"2025-10-18 17:49:10"}
+{"level":"error","message":"Get products error: SASL: SCRAM-SERVER-FIRST-MESSAGE: client password must be a string","timestamp":"2025-10-18 17:49:10"}
+{"level":"error","message":"GET /api/products?page=1&limit=12&search=&type=&category=&sort=created_at&order=DESC 500 24ms - ::1","timestamp":"2025-10-18 17:49:10"}
+{"level":"error","message":"Get products error: SASL: SCRAM-SERVER-FIRST-MESSAGE: client password must be a string","timestamp":"2025-10-18 17:49:16"}
+{"level":"error","message":"GET /api/products?page=1&limit=12&search=&type=&category=&sort=created_at&order=DESC 500 34ms - ::1","timestamp":"2025-10-18 17:49:16"}
+{"level":"error","message":"GET /api/blogs?limit=6&sort=published_at&order=DESC 500 14ms - ::1","timestamp":"2025-10-18 17:49:23"}
+{"level":"error","message":"GET /api/blogs/categories/all 500 16ms - ::1","timestamp":"2025-10-18 17:49:23"}
+{"level":"error","message":"GET /api/blogs?limit=6&sort=published_at&order=DESC 500 19ms - ::1","timestamp":"2025-10-18 17:49:23"}
+{"level":"error","message":"GET /api/blogs/categories/all 500 20ms - ::1","timestamp":"2025-10-18 17:49:23"}
+{"level":"error","message":"Get products error: SASL: SCRAM-SERVER-FIRST-MESSAGE: client password must be a string","timestamp":"2025-10-18 18:13:41"}
+{"level":"error","message":"GET /api/products?page=1&limit=12&search=&type=&category=&sort=created_at&order=DESC 500 350ms - ::1","timestamp":"2025-10-18 18:13:41"}
+{"level":"error","message":"Get products error: SASL: SCRAM-SERVER-FIRST-MESSAGE: client password must be a string","timestamp":"2025-10-18 18:13:41"}
+{"level":"error","message":"GET /api/products?page=1&limit=12&search=&type=&category=&sort=created_at&order=DESC 500 23ms - ::1","timestamp":"2025-10-18 18:13:41"}
+{"level":"error","message":"Get products error: SASL: SCRAM-SERVER-FIRST-MESSAGE: client password must be a string","timestamp":"2025-10-18 18:59:07"}
+{"level":"error","message":"GET /api/products?page=1&limit=12&search=&type=&category=&sort=created_at&order=DESC 500 35ms - ::1","timestamp":"2025-10-18 18:59:07"}
